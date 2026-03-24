@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific large files and local data
+*.pt
+*.pth
+*.zip
+data/raw/
