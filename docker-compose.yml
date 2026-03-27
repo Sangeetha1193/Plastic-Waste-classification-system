@@ -1,0 +1,25 @@
+services:
+  waste-api:
+    build: .
+    image: waste-classifier:latest
+    container_name: waste-api
+    ports:
+      - "5000:5000"
+    environment:
+      - MODEL_PATH=models/best.pt
+      - CONF_THRESH=0.25
+      - IOU_THRESH=0.45
+      - FLASK_DEBUG=false
+    volumes:
+      # Mount outputs so predictions are written to your host machine
+      - ./outputs:/app/outputs
+      # Optional: mount model separately so you can swap best.pt without rebuild
+      # - ./models:/app/models
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+    restart: unless-stopped
+

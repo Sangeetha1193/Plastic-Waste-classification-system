@@ -1,0 +1,23 @@
+path: ./data/taco_yolo_17
+train: images/train
+val: images/val
+test: images/test
+nc: 17
+names:
+  0: Aluminium foil
+  1: Other
+  2: Plastic bottle
+  3: Glass bottle
+  4: Plastic bottle cap
+  5: Metal bottle cap
+  6: Can
+  7: Carton
+  8: Cup
+  9: Plastic lid
+  10: Paper
+  11: Plastic film
+  12: Wrapper
+  13: Plastic container
+  14: Pop tab
+  15: Straw
+  16: Styrofoam piece

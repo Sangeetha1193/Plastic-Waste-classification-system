@@ -1,0 +1,1711 @@
+[
+  {
+    "image": "batch_01_000031.jpg",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.561
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.396
+      }
+    ]
+  },
+  {
+    "image": "batch_01_000058.jpg",
+    "detections": [
+      {
+        "class": "Other plastic bottle",
+        "confidence": 0.991
+      },
+      {
+        "class": "Plastic bottle cap",
+        "confidence": 0.947
+      },
+      {
+        "class": "Plastic lid",
+        "confidence": 0.601
+      },
+      {
+        "class": "Other plastic bottle",
+        "confidence": 0.551
+      }
+    ]
+  },
+  {
+    "image": "batch_01_000090.JPG",
+    "detections": [
+      {
+        "class": "Food Can",
+        "confidence": 0.572
+      }
+    ]
+  },
+  {
+    "image": "batch_01_000106.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.924
+      },
+      {
+        "class": "Other plastic bottle",
+        "confidence": 0.757
+      },
+      {
+        "class": "Other plastic bottle",
+        "confidence": 0.644
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.602
+      }
+    ]
+  },
+  {
+    "image": "batch_01_000118.JPG",
+    "detections": [
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.405
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.253
+      }
+    ]
+  },
+  {
+    "image": "batch_01_000127.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.925
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.888
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.647
+      },
+      {
+        "class": "Other plastic bottle",
+        "confidence": 0.522
+      }
+    ]
+  },
+  {
+    "image": "batch_01_000129.JPG",
+    "detections": [
+      {
+        "class": "Metal lid",
+        "confidence": 0.779
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.778
+      },
+      {
+        "class": "Glass bottle",
+        "confidence": 0.46
+      },
+      {
+        "class": "Corrugated carton",
+        "confidence": 0.41
+      },
+      {
+        "class": "Pop tab",
+        "confidence": 0.292
+      }
+    ]
+  },
+  {
+    "image": "batch_02_000014.JPG",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.655
+      }
+    ]
+  },
+  {
+    "image": "batch_02_000019.JPG",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.632
+      }
+    ]
+  },
+  {
+    "image": "batch_02_000023.JPG",
+    "detections": [
+      {
+        "class": "Aluminium foil",
+        "confidence": 0.791
+      },
+      {
+        "class": "Paper cup",
+        "confidence": 0.535
+      },
+      {
+        "class": "Egg carton",
+        "confidence": 0.263
+      }
+    ]
+  },
+  {
+    "image": "batch_02_000042.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.457
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.364
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.358
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.331
+      },
+      {
+        "class": "Normal paper",
+        "confidence": 0.311
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.304
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.288
+      },
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.257
+      }
+    ]
+  },
+  {
+    "image": "batch_02_000055.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_02_000077.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_02_000085.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.84
+      }
+    ]
+  },
+  {
+    "image": "batch_03_IMG_4902.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.873
+      }
+    ]
+  },
+  {
+    "image": "batch_03_IMG_4922.JPG",
+    "detections": [
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.386
+      }
+    ]
+  },
+  {
+    "image": "batch_03_IMG_4978.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.653
+      },
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.395
+      }
+    ]
+  },
+  {
+    "image": "batch_03_IMG_4997.JPG",
+    "detections": [
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.345
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.276
+      }
+    ]
+  },
+  {
+    "image": "batch_03_IMG_5036.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_03_IMG_5042.JPG",
+    "detections": [
+      {
+        "class": "Glass bottle",
+        "confidence": 0.931
+      }
+    ]
+  },
+  {
+    "image": "batch_03_IMG_5043.JPG",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.887
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.876
+      }
+    ]
+  },
+  {
+    "image": "batch_03_IMG_5055.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_04_000002.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.308
+      }
+    ]
+  },
+  {
+    "image": "batch_04_000057.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_04_000063.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.596
+      }
+    ]
+  },
+  {
+    "image": "batch_04_000067.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_04_000079.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.83
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.643
+      }
+    ]
+  },
+  {
+    "image": "batch_04_000084.JPG",
+    "detections": [
+      {
+        "class": "Other plastic",
+        "confidence": 0.742
+      }
+    ]
+  },
+  {
+    "image": "batch_04_000085.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.399
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.386
+      }
+    ]
+  },
+  {
+    "image": "batch_04_000096.JPG",
+    "detections": [
+      {
+        "class": "Plastic bottle cap",
+        "confidence": 0.824
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000015.JPG",
+    "detections": [
+      {
+        "class": "Cigarette",
+        "confidence": 0.268
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000016.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_05_000040.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.377
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000047.JPG",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.734
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.61
+      },
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.571
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.549
+      },
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.465
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.279
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000054.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_05_000063.JPG",
+    "detections": [
+      {
+        "class": "Crisp packet",
+        "confidence": 0.307
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000071.JPG",
+    "detections": [
+      {
+        "class": "Glass bottle",
+        "confidence": 0.271
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.255
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000086.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.284
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000099.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.372
+      },
+      {
+        "class": "Other plastic",
+        "confidence": 0.34
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000103.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.828
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000108.JPG",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.281
+      }
+    ]
+  },
+  {
+    "image": "batch_05_000115.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_05_000120.JPG",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.478
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.398
+      },
+      {
+        "class": "Glass bottle",
+        "confidence": 0.395
+      },
+      {
+        "class": "Normal paper",
+        "confidence": 0.295
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000006.JPG",
+    "detections": [
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.443
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.311
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000010.JPG",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.986
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000013.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.988
+      },
+      {
+        "class": "Crisp packet",
+        "confidence": 0.699
+      },
+      {
+        "class": "Other carton",
+        "confidence": 0.699
+      },
+      {
+        "class": "Other carton",
+        "confidence": 0.332
+      },
+      {
+        "class": "Drink carton",
+        "confidence": 0.314
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000020.JPG",
+    "detections": [
+      {
+        "class": "Other plastic",
+        "confidence": 0.297
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000036.JPG",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.286
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000055.JPG",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.904
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.578
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000061.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_06_000064.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_06_000065.JPG",
+    "detections": [
+      {
+        "class": "Crisp packet",
+        "confidence": 0.946
+      },
+      {
+        "class": "Plastic bottle cap",
+        "confidence": 0.381
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000077.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.334
+      },
+      {
+        "class": "Single-use carrier bag",
+        "confidence": 0.274
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000086.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.337
+      }
+    ]
+  },
+  {
+    "image": "batch_06_000099.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.699
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.327
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.316
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000003.JPG",
+    "detections": [
+      {
+        "class": "Other plastic",
+        "confidence": 0.329
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000010.JPG",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.326
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.297
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000022.JPG",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.805
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.442
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.273
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.256
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000047.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_07_000048.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.971
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000065.JPG",
+    "detections": [
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.622
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.315
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000067.JPG",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.289
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000068.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_07_000083.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.955
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.36
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000093.JPG",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.909
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000123.JPG",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.664
+      },
+      {
+        "class": "Plastic bottle cap",
+        "confidence": 0.311
+      },
+      {
+        "class": "Plastic straw",
+        "confidence": 0.299
+      }
+    ]
+  },
+  {
+    "image": "batch_07_000132.JPG",
+    "detections": []
+  },
+  {
+    "image": "batch_07_000137.JPG",
+    "detections": [
+      {
+        "class": "Styrofoam piece",
+        "confidence": 0.261
+      }
+    ]
+  },
+  {
+    "image": "batch_08_000003.jpg",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.8
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.371
+      }
+    ]
+  },
+  {
+    "image": "batch_08_000011.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.723
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.359
+      }
+    ]
+  },
+  {
+    "image": "batch_08_000015.jpg",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.261
+      }
+    ]
+  },
+  {
+    "image": "batch_08_000019.jpg",
+    "detections": [
+      {
+        "class": "Cigarette",
+        "confidence": 0.431
+      },
+      {
+        "class": "Cigarette",
+        "confidence": 0.413
+      },
+      {
+        "class": "Other carton",
+        "confidence": 0.266
+      }
+    ]
+  },
+  {
+    "image": "batch_08_000031.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.922
+      }
+    ]
+  },
+  {
+    "image": "batch_08_000049.jpg",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.437
+      }
+    ]
+  },
+  {
+    "image": "batch_08_000057.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.409
+      },
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.38
+      }
+    ]
+  },
+  {
+    "image": "batch_08_000058.jpg",
+    "detections": [
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.324
+      }
+    ]
+  },
+  {
+    "image": "batch_08_000065.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.425
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.359
+      }
+    ]
+  },
+  {
+    "image": "batch_09_000001.jpg",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.862
+      }
+    ]
+  },
+  {
+    "image": "batch_09_000009.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.647
+      }
+    ]
+  },
+  {
+    "image": "batch_09_000025.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.616
+      }
+    ]
+  },
+  {
+    "image": "batch_09_000041.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_09_000042.jpg",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.427
+      }
+    ]
+  },
+  {
+    "image": "batch_09_000067.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_09_000070.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.84
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.261
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.254
+      }
+    ]
+  },
+  {
+    "image": "batch_09_000094.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.575
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.441
+      }
+    ]
+  },
+  {
+    "image": "batch_10_000010.jpg",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.273
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.273
+      }
+    ]
+  },
+  {
+    "image": "batch_10_000031.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_10_000032.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_10_000033.jpg",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.364
+      }
+    ]
+  },
+  {
+    "image": "batch_10_000056.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_10_000080.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_10_000081.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.918
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.486
+      }
+    ]
+  },
+  {
+    "image": "batch_10_000083.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_10_000086.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_10_000089.jpg",
+    "detections": [
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.319
+      }
+    ]
+  },
+  {
+    "image": "batch_10_000091.jpg",
+    "detections": [
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.264
+      }
+    ]
+  },
+  {
+    "image": "batch_11_000012.jpg",
+    "detections": [
+      {
+        "class": "Corrugated carton",
+        "confidence": 0.535
+      },
+      {
+        "class": "Corrugated carton",
+        "confidence": 0.427
+      },
+      {
+        "class": "Corrugated carton",
+        "confidence": 0.282
+      },
+      {
+        "class": "Corrugated carton",
+        "confidence": 0.276
+      }
+    ]
+  },
+  {
+    "image": "batch_11_000013.jpg",
+    "detections": [
+      {
+        "class": "Corrugated carton",
+        "confidence": 0.336
+      },
+      {
+        "class": "Corrugated carton",
+        "confidence": 0.285
+      }
+    ]
+  },
+  {
+    "image": "batch_11_000042.jpg",
+    "detections": [
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.928
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.794
+      },
+      {
+        "class": "Paper cup",
+        "confidence": 0.479
+      }
+    ]
+  },
+  {
+    "image": "batch_11_000087.jpg",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.956
+      }
+    ]
+  },
+  {
+    "image": "batch_11_000093.jpg",
+    "detections": [
+      {
+        "class": "Plastic bottle cap",
+        "confidence": 0.276
+      }
+    ]
+  },
+  {
+    "image": "batch_11_000096.jpg",
+    "detections": [
+      {
+        "class": "Other carton",
+        "confidence": 0.544
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.327
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000006.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.696
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000009.jpg",
+    "detections": [
+      {
+        "class": "Disposable food container",
+        "confidence": 0.775
+      },
+      {
+        "class": "Styrofoam piece",
+        "confidence": 0.736
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.396
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000014.jpg",
+    "detections": [
+      {
+        "class": "Metal bottle cap",
+        "confidence": 0.36
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000024.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.707
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.299
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000045.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_12_000046.jpg",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.728
+      },
+      {
+        "class": "Drink can",
+        "confidence": 0.585
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.394
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000052.jpg",
+    "detections": [
+      {
+        "class": "Disposable food container",
+        "confidence": 0.912
+      },
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.422
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000053.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_12_000058.jpg",
+    "detections": [
+      {
+        "class": "Other plastic",
+        "confidence": 0.343
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.274
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000067.jpg",
+    "detections": [
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.429
+      },
+      {
+        "class": "Plastic straw",
+        "confidence": 0.427
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000072.jpg",
+    "detections": [
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.644
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.478
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000073.jpg",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.878
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000082.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.674
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.658
+      },
+      {
+        "class": "Other carton",
+        "confidence": 0.647
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000084.jpg",
+    "detections": [
+      {
+        "class": "Tissues",
+        "confidence": 0.771
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.753
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.574
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.359
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.349
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.33
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.328
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000085.jpg",
+    "detections": [
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.878
+      },
+      {
+        "class": "Plastic lid",
+        "confidence": 0.467
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.452
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.316
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.272
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.251
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000090.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.912
+      },
+      {
+        "class": "Plastic bottle cap",
+        "confidence": 0.656
+      },
+      {
+        "class": "Meal carton",
+        "confidence": 0.356
+      },
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.326
+      },
+      {
+        "class": "Other carton",
+        "confidence": 0.254
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000096.jpg",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.521
+      }
+    ]
+  },
+  {
+    "image": "batch_12_000099.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.676
+      }
+    ]
+  },
+  {
+    "image": "batch_13_000001.jpg",
+    "detections": [
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.702
+      }
+    ]
+  },
+  {
+    "image": "batch_13_000004.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_13_000033.jpg",
+    "detections": [
+      {
+        "class": "Other carton",
+        "confidence": 0.892
+      },
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.761
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.615
+      }
+    ]
+  },
+  {
+    "image": "batch_13_000040.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.535
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.464
+      }
+    ]
+  },
+  {
+    "image": "batch_13_000043.jpg",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.468
+      }
+    ]
+  },
+  {
+    "image": "batch_13_000053.jpg",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.303
+      }
+    ]
+  },
+  {
+    "image": "batch_13_000090.jpg",
+    "detections": [
+      {
+        "class": "Metal bottle cap",
+        "confidence": 0.645
+      },
+      {
+        "class": "Aluminium foil",
+        "confidence": 0.273
+      }
+    ]
+  },
+  {
+    "image": "batch_13_000091.jpg",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.424
+      }
+    ]
+  },
+  {
+    "image": "batch_14_000009.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_14_000012.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.452
+      },
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.356
+      },
+      {
+        "class": "Wrapping paper",
+        "confidence": 0.254
+      }
+    ]
+  },
+  {
+    "image": "batch_14_000019.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.718
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.657
+      }
+    ]
+  },
+  {
+    "image": "batch_14_000025.jpg",
+    "detections": [
+      {
+        "class": "Drink can",
+        "confidence": 0.432
+      }
+    ]
+  },
+  {
+    "image": "batch_14_000043.jpg",
+    "detections": [
+      {
+        "class": "Metal bottle cap",
+        "confidence": 0.641
+      }
+    ]
+  },
+  {
+    "image": "batch_14_000046.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_14_000048.jpg",
+    "detections": [
+      {
+        "class": "Cigarette",
+        "confidence": 0.623
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.356
+      }
+    ]
+  },
+  {
+    "image": "batch_14_000049.jpg",
+    "detections": [
+      {
+        "class": "Plastic straw",
+        "confidence": 0.946
+      },
+      {
+        "class": "Plastic straw",
+        "confidence": 0.88
+      },
+      {
+        "class": "Plastic straw",
+        "confidence": 0.869
+      },
+      {
+        "class": "Plastic straw",
+        "confidence": 0.56
+      },
+      {
+        "class": "Plastic straw",
+        "confidence": 0.415
+      },
+      {
+        "class": "Plastic lid",
+        "confidence": 0.332
+      },
+      {
+        "class": "Food Can",
+        "confidence": 0.329
+      },
+      {
+        "class": "Plastic lid",
+        "confidence": 0.296
+      },
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.255
+      }
+    ]
+  },
+  {
+    "image": "batch_14_000057.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_14_000061.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_14_000080.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.447
+      }
+    ]
+  },
+  {
+    "image": "batch_14_000087.jpg",
+    "detections": [
+      {
+        "class": "Disposable plastic cup",
+        "confidence": 0.764
+      }
+    ]
+  },
+  {
+    "image": "batch_14_000096.jpg",
+    "detections": [
+      {
+        "class": "Styrofoam piece",
+        "confidence": 0.262
+      }
+    ]
+  },
+  {
+    "image": "batch_15_000001.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_15_000007.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.928
+      },
+      {
+        "class": "Paper cup",
+        "confidence": 0.35
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.296
+      }
+    ]
+  },
+  {
+    "image": "batch_15_000015.jpg",
+    "detections": [
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.57
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.376
+      },
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.353
+      },
+      {
+        "class": "Unlabeled litter",
+        "confidence": 0.274
+      }
+    ]
+  },
+  {
+    "image": "batch_15_000022.jpg",
+    "detections": [
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.825
+      },
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.675
+      },
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.539
+      },
+      {
+        "class": "Other plastic wrapper",
+        "confidence": 0.475
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.407
+      }
+    ]
+  },
+  {
+    "image": "batch_15_000031.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_15_000039.jpg",
+    "detections": [
+      {
+        "class": "Plastic film",
+        "confidence": 0.698
+      },
+      {
+        "class": "Other carton",
+        "confidence": 0.439
+      },
+      {
+        "class": "Plastic film",
+        "confidence": 0.396
+      },
+      {
+        "class": "Drink carton",
+        "confidence": 0.383
+      },
+      {
+        "class": "Clear plastic bottle",
+        "confidence": 0.378
+      },
+      {
+        "class": "Corrugated carton",
+        "confidence": 0.272
+      }
+    ]
+  },
+  {
+    "image": "batch_15_000053.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_15_000074.jpg",
+    "detections": []
+  },
+  {
+    "image": "batch_15_000081.jpg",
+    "detections": [
+      {
+        "class": "Other carton",
+        "confidence": 0.493
+      }
+    ]
+  }
+]
